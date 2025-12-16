@@ -1,0 +1,10 @@
+df_loaded, 总样本数: 20000
+已加载生成器权重: ./models/generator_weights_latest.h5
+Test 样本数: 6000
+评估子集样本数: 2000
+real_np 形状: (2000, 32, 32, 1) 范围: -1.0 1.0000002
+fake_np 形状: (2000, 32, 32, 1) 范围: -0.9999774 0.98777
+使用设备: cuda
+===== FID（评估子集）===== 82.71720886230469
+Downloading: "https://download.pytorch.org/models/alexnet-owt-7be5be79.pth" to /home/liujunwei/.cache/torch/hub/checkpoints/alexnet-owt-7be5be79.pth
+===== LPIPS（alex, 评估子集）===== 0.0464407354593277
