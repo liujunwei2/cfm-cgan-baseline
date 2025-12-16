@@ -1,4 +1,4 @@
-# CFM cGAN Baseline (WHU swarm)
+# CFM cGAN Baseline 
 
 This repo stores my training & evaluation scripts for the capacitive fiducial marker (CFM) project, 
 and the corresponding experiment logs from WHU swarm cluster.
